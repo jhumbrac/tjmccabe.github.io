@@ -1,0 +1,103 @@
+body, html {
+	font-weight: 600;
+	font-family: 'PT Sans', sans-serif;
+	line-height: 1.8em;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+	border: 0;
+
+}
+
+#block1 {
+	background-color: tan;
+	color: rgb(128,0,0);
+	margin: 0;
+	margin-top: 0;
+	padding: 0;
+	border: 0;
+
+
+}
+
+#block2 {
+	background-color: rgb(220, 243, 252);
+	color: rgb(0, 153, 0);
+	margin: 0;
+	margin-top: 0;
+	padding: 0;
+	border: 0;
+
+}
+
+#block3 {
+	background-color: gainsboro;
+	color: black;
+	margin: 0;
+	margin-top: 0;
+	padding: 0;
+	border: 0;
+}
+
+
+.center {
+	text-align: center;
+	margin: auto;
+
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	line-height: 2.5em;
+	padding: 0;
+	margin: 0;
+}
+
+h3 {
+	text-align: center;
+	margin-left: 12em;
+	margin-right: 12em;
+}
+
+p {
+	text-align: center;
+	margin-left: 20em;
+	margin-right: 20em;
+
+}
+
+a {
+	text-decoration: none;
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+}
+
+#slogan {
+	font-style: italic;
+	text-align: center;
+}
+
+.contact {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+#listtitle {
+	font-weight: 700;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+ul {
+	font-weight: normal;
+	text-align: center;
+	list-style-position: inside;
+	padding:0;
+	margin:0;
+}
